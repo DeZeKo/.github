@@ -10,8 +10,8 @@ We use this space to collect, develop, and create things we find interesting, fr
 
 DeZeKo is maintained by:
 
-- **[@ZennDC]**
-- **[@KobeD62]**
+- ZennDC ([GitHub](https://github.com/ZennDC))
+- KobeD62 ([GitHub](https://github.com/KobeD62))
 
 We work together on ideas, split development, and occasionally rebuild things from scratch when we change our minds.
 
@@ -74,8 +74,8 @@ Feel free to look around.
 
 If you need to reach us:
 
-- Zenn ([@ZennDC])
-- Kobe ([@KobeD62])
+- ZennDC ([GitHub](https://github.com/ZennDC))
+- KobeD62 ([GitHub](https://github.com/KobeD62))
 - Email: <dezeko.group@gmail.com>
 
 ---
